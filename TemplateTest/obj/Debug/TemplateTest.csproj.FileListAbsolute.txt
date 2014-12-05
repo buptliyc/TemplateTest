@@ -1,0 +1,7 @@
+c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateTest\bin\Debug\TemplateTest.exe.config
+c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateTest\bin\Debug\TemplateTest.exe
+c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateTest\bin\Debug\TemplateTest.pdb
+c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateTest\obj\Debug\TemplateTest.csprojResolveAssemblyReference.cache
+c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateTest\obj\Debug\TemplateTest.exe
+c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateTest\obj\Debug\TemplateTest.pdb
+c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateTest\bin\Debug\Newtonsoft.Json.dll
