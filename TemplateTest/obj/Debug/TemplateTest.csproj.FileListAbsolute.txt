@@ -5,3 +5,6 @@ c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateT
 c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateTest\obj\Debug\TemplateTest.exe
 c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateTest\obj\Debug\TemplateTest.pdb
 c:\users\yuchuan.li\documents\visual studio 2012\Projects\TemplateTest\TemplateTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yuchuan.li\Documents\Visual Studio 2012\Projects\TemplateTest\TemplateTest\bin\Debug\AutoMapper.Net4.dll
+C:\Users\yuchuan.li\Documents\Visual Studio 2012\Projects\TemplateTest\TemplateTest\bin\Debug\AutoMapper.dll
+C:\Users\yuchuan.li\Documents\Visual Studio 2012\Projects\TemplateTest\TemplateTest\bin\Debug\AutoMapper.xml
